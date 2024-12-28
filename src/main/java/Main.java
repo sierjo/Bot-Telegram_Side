@@ -19,7 +19,7 @@ public class Main {
             throw new RuntimeException(e);
         }
     }
-  List<String> adress = new ArrayList<>();
+//  List<String> adress = new ArrayList<>();
 }
 
 
